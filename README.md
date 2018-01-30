@@ -4,3 +4,4 @@ What this plugin does is to simply recursively scan your project directory in or
 It provides an UI which allows to check what groups you have defined in project and what scenes belongs to those groups.
 Additionally it allows you to manually write description for each group, as well as to define some basic requirements for group members to  fulfill (in the form of required methods). 
 
+# This plugin is outdated. For 3.0 please download https://github.com/kubecz3k/KivanoEditorEnhancemens
